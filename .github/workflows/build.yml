@@ -20,3 +20,4 @@ jobs:
         with:
           name: builds
           path: .output/*.zip
+          include-hidden-files: true
